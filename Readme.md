@@ -55,7 +55,6 @@ California-Housing-Price-Prediction
 ├── input.csv
 ├── output.csv
 ├── main.py
-├── model.pkl
 ├── pipeline.pkl
 └── README.md
 ```
